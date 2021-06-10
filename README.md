@@ -7,8 +7,8 @@ Cheers!
 
 meeb
 
-:link: [meeb.org](https://meeb.org/)  |  :e-mail: [meeb@meeb.org](mailto:meeb@meeb.org)
+:link: [meeb.org](https://meeb.org/)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;:e-mail: [meeb@meeb.org](mailto:meeb@meeb.org)
 
-<hr height="1">
+---
 
 [![meeb's GitHub stats](https://github-readme-stats.vercel.app/api?username=meeb&show_icons=true&theme=dark&hide=issues,contribs&custom_title=Activity)](https://github.com/meeb)
