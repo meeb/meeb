@@ -5,5 +5,7 @@ used by others. Feel free to drop me an email, create issues or make contributio
 
 Cheers!
 
-[meeb](mailto:meeb@meeb.org)
- 
+meeb
+
+🔗️ [meeb.org](https://meeb.org/)
+✉️ [meeb@meeb.org](mailto:meeb@meeb.org)
