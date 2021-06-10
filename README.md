@@ -7,6 +7,7 @@ Cheers!
 
 meeb
 
-🔗️ [meeb.org](https://meeb.org/)
+🔗️ [meeb.org](https://meeb.org/) | ✉️ [meeb@meeb.org](mailto:meeb@meeb.org)
 
-✉️ [meeb@meeb.org](mailto:meeb@meeb.org)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=meeb&show_icons=true&theme=onedark&hide=issues,contribs&custom_title=Activity" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meeb&layout=compact&theme=onedark&langs_count=4&custom_title=Languages" />
